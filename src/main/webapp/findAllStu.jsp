@@ -3,7 +3,7 @@
 <%@ page isELIgnored="false"%>
 <html>
 <body>
-    <h2>显示学生信息</h2>
+    <h2>测试学生信息</h2>
 
     <form action="MyStuAction!Update" method="post">
         <table border="1" cellpadding="10" cellspacing="0">
